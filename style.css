@@ -20,7 +20,8 @@ body {
 }
 
 #container h1 {
-	padding: 15px;
+	padding: 35px;
     color: #feaf40;
     border: double;
+    border-radius: 20px;
 }
