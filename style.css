@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+	background-color: #084C61;
+
+}
+#image {
+	height: 272px;
+	width: 408px;
+	border-radius: 20px;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	box-shadow: 5px 10px;
+	flex-direction: column;
+}
+
+#container h1 {
+	padding: 15px;
+	color: white;
+}
