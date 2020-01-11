@@ -21,5 +21,6 @@ body {
 
 #container h1 {
 	padding: 15px;
-	color: white;
+    color: #feaf40;
+    border: double;
 }
