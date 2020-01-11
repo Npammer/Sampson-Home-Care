@@ -9,6 +9,9 @@ body {
 	width: 408px;
 	border-radius: 20px;
 }
+#image:hover {
+	transform: scale(1.03);
+}
 
 #container {
 	display: flex;
@@ -24,4 +27,7 @@ body {
     color: #feaf40;
     border: double;
     border-radius: 20px;
+}
+#container h1:hover {
+	transform: scale(1.03);
 }
